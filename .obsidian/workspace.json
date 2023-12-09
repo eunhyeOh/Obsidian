@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e566d79d4ce55433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Daily/TodayILearned/daily_til_template.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,14 +170,21 @@
                 "file": "Daily/TodayILearned/daily_til_template.md"
               }
             }
+          },
+          {
+            "id": "16078d978ce823dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +200,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e825508adb516dd4",
+  "active": "b54b7475ed4295ce",
   "lastOpenFiles": [
-    "Daily/TodayILearned/TodayILearned.md",
+    "Daily/TodayILearned/2023-12-09.md",
     "Daily/TodayILearned/daily_til_template.md",
+    "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+    "{{yesterday}}.md",
+    "Daily/TodayILearned/TodayILearned.md",
     "Daily/Daily.md",
     "Daily/TodayILearned",
     "Daily",
@@ -228,7 +226,6 @@
     "🌱SpringBoot/1.프로젝트 설정.md",
     "🌱SpringBoot/1-2.View 환경설정.md",
     "🌱SpringBoot/1-1.라이브러리.md",
-    "🌱SpringBoot/4.스프링 빈과 의존관계.md",
     "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
     "🌱SpringBoot",
     "2023-12-09.md",
