@@ -47,11 +47,14 @@
     "//Daily",
     "//Daily",
     "//Daily/Daily/TodayILearned",
-    "//template",
     "//Spaces/Spaces/Home",
-    "//template",
     "//Daily/Daily/ToDoList",
-    "//Daily/Daily/ToDoList"
+    "//Daily/Daily/ToDoList",
+    "//🧸토이프로젝트",
+    "//Daily/Daily/ToDoList",
+    "//Daily/Daily/TodayILearned",
+    "//template",
+    "//template"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
