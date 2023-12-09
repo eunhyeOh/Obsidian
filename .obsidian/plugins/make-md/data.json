@@ -54,7 +54,9 @@
     "//Daily/Daily/ToDoList",
     "//Daily/Daily/TodayILearned",
     "//template",
-    "//template"
+    "//template",
+    "//template",
+    "//templates"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

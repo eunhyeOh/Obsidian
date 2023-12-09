@@ -5,16 +5,20 @@
       "path": "Daily/TodayILearned/2023-12-10.md"
     },
     {
+      "basename": "daily_todo_template",
+      "path": "templates/daily_todo_template.md"
+    },
+    {
       "basename": "daily_til_template",
-      "path": "template/daily_til_template.md"
+      "path": "templates/daily_til_template.md"
+    },
+    {
+      "basename": "templates",
+      "path": "templates/templates.md"
     },
     {
       "basename": "2023-12-10",
       "path": "Daily/ToDoList/2023-12-10.md"
-    },
-    {
-      "basename": "template",
-      "path": "template/template.md"
     },
     {
       "basename": "TodayILearned",
@@ -27,10 +31,6 @@
     {
       "basename": "일정관리 어플리케이션 구상",
       "path": "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md"
-    },
-    {
-      "basename": "daily_todo_template",
-      "path": "template/daily_todo_template.md"
     },
     {
       "basename": "Daily",
