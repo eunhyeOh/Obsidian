@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/TodayILearned/daily_til_template.md",
+                "file": "Daily/TodayILearned/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "55a0ba687da0d0af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c4e87305e878b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/TodayILearned/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/TodayILearned/daily_til_template.md",
+                "file": "Daily/TodayILearned/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/TodayILearned/daily_til_template.md",
+                "file": "Daily/TodayILearned/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/TodayILearned/daily_til_template.md"
+                "file": "Daily/TodayILearned/Untitled.md"
               }
             }
           },
@@ -200,13 +218,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b54b7475ed4295ce",
+  "active": "88c4e87305e878b7",
   "lastOpenFiles": [
-    "Daily/TodayILearned/2023-12-09.md",
     "Daily/TodayILearned/daily_til_template.md",
+    "Daily/TodayILearned/TodayILearned.md",
+    "Daily/TodayILearned/Untitled.md",
+    "Daily/TodayILearned/2023-12-09.md",
     "🌱SpringBoot/4.스프링 빈과 의존관계.md",
     "{{yesterday}}.md",
-    "Daily/TodayILearned/TodayILearned.md",
     "Daily/Daily.md",
     "Daily/TodayILearned",
     "Daily",
