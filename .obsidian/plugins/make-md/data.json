@@ -47,6 +47,10 @@
     "//Daily",
     "//Daily",
     "//Daily/Daily/TodayILearned",
+    "//template",
+    "//Spaces/Spaces/Home",
+    "//template",
+    "//Daily/Daily/ToDoList",
     "//Daily/Daily/ToDoList"
   ],
   "expandFolderOnClick": true,
@@ -75,7 +79,8 @@
   "rootSpaces": [
     "Daily",
     "Daily/ILearnToday",
-    "Daily/ToDoList"
+    "Daily/ToDoList",
+    "template"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

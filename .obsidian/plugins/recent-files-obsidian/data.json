@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "daily_todo_template",
-      "path": "Daily/ToDoList/daily_todo_template.md"
+      "basename": "2023-12-10",
+      "path": "Daily/ToDoList/2023-12-10.md"
     },
     {
-      "basename": "daily_til_template",
-      "path": "Daily/TodayILearned/daily_til_template.md"
+      "basename": "2023-12-10",
+      "path": "Daily/TodayILearned/2023-12-10.md"
     },
     {
       "basename": "ToDoList",
       "path": "Daily/ToDoList/ToDoList.md"
+    },
+    {
+      "basename": "daily_til_template",
+      "path": "template/daily_til_template.md"
+    },
+    {
+      "basename": "daily_todo_template",
+      "path": "template/daily_todo_template.md"
+    },
+    {
+      "basename": "template",
+      "path": "template/template.md"
     },
     {
       "basename": "TodayILearned",
@@ -19,10 +31,6 @@
     {
       "basename": "Daily",
       "path": "Daily/Daily.md"
-    },
-    {
-      "basename": "2023-12-10",
-      "path": "Daily/TodayILearned/2023-12-10.md"
     },
     {
       "basename": "4.스프링 빈과 의존관계",

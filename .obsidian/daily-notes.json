@@ -1,5 +1,5 @@
 {
-  "folder": "Daily/TodayILearned",
-  "template": "Daily/TodayILearned/daily_til_template",
+  "folder": "Daily/ToDoList",
+  "template": "template/daily_todo_template",
   "autorun": true
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/ToDoList/daily_todo_template.md",
+                "file": "Daily/ToDoList/2023-12-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/ToDoList/daily_todo_template.md",
+                "file": "Daily/ToDoList/2023-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/ToDoList/daily_todo_template.md",
+                "file": "Daily/ToDoList/2023-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/ToDoList/daily_todo_template.md"
+                "file": "Daily/ToDoList/2023-12-10.md"
               }
             }
           },
@@ -203,14 +203,19 @@
   },
   "active": "b54b7475ed4295ce",
   "lastOpenFiles": [
-    "Daily/TodayILearned/daily_til_template.md",
-    "Daily/ToDoList/daily_todo_template.md",
+    "Daily/TodayILearned/2023-12-10.md",
+    "Daily/ToDoList/2023-12-10.md",
+    "Daily/ToDoList/Untitled.md",
     "Daily/ToDoList/ToDoList.md",
+    "template/daily_til_template.md",
+    "template/daily_todo_template.md",
+    "template/template.md",
+    "Obsidian Vault.md",
+    "template",
     "Daily/TodayILearned/TodayILearned.md",
     "Daily/Daily.md",
     "Daily/ToDoList",
     "Daily/Untitled.md",
-    "Daily/TodayILearned/2023-12-10.md",
     "Daily/TodayILearned/pdlf.md",
     "Daily/TodayILearned/2023-12-09.md",
     "🌱SpringBoot/4.스프링 빈과 의존관계.md",
@@ -234,13 +239,8 @@
     "🌱SpringBoot/1-2.View 환경설정.md",
     "🌱SpringBoot/1-1.라이브러리.md",
     "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
-    "🌱SpringBoot",
     "2023-12-09.md",
-    "Excalidraw/Drawing 2023-12-09 21.52.38.excalidraw.md",
     "무제 파일.canvas",
-    "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
-    "🧸토이프로젝트/일정관리어플리케이션/기획초안.md",
-    "Excalidraw/개발관련 2023-11-19 15.24.05.excalidraw.md",
     "img/Pasted image 20231204163538.png",
     "img/Pasted image 20231204162952.png",
     "img/Pasted image 20231204162019.png",
