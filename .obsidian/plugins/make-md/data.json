@@ -43,7 +43,11 @@
     "//Daily/Daily/TodayILearned",
     "//Daily/Daily/TodayILearned",
     "//Daily/Daily/TodayILearned",
-    "//Daily/Daily/TodayILearned"
+    "//Daily/Daily/TodayILearned",
+    "//Daily",
+    "//Daily",
+    "//Daily/Daily/TodayILearned",
+    "//Daily/Daily/ToDoList"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -70,7 +74,8 @@
   ],
   "rootSpaces": [
     "Daily",
-    "Daily/ILearnToday"
+    "Daily/ILearnToday",
+    "Daily/ToDoList"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

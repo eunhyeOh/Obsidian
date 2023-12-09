@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "pdlf",
-      "path": "Daily/TodayILearned/pdlf.md"
+      "basename": "daily_todo_template",
+      "path": "Daily/ToDoList/daily_todo_template.md"
     },
     {
       "basename": "daily_til_template",
       "path": "Daily/TodayILearned/daily_til_template.md"
     },
     {
+      "basename": "ToDoList",
+      "path": "Daily/ToDoList/ToDoList.md"
+    },
+    {
       "basename": "TodayILearned",
       "path": "Daily/TodayILearned/TodayILearned.md"
     },
     {
-      "basename": "4.스프링 빈과 의존관계",
-      "path": "🌱SpringBoot/4.스프링 빈과 의존관계.md"
-    },
-    {
       "basename": "Daily",
       "path": "Daily/Daily.md"
+    },
+    {
+      "basename": "2023-12-10",
+      "path": "Daily/TodayILearned/2023-12-10.md"
+    },
+    {
+      "basename": "4.스프링 빈과 의존관계",
+      "path": "🌱SpringBoot/4.스프링 빈과 의존관계.md"
     },
     {
       "basename": "IT 5분 잡학사전",
