@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "b3a9fa927286e5fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a199b84e3e04bdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356d4841524361ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b54b7475ed4295ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e566d79d4ce55433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📘북클럽/IT 5분 잡학사전.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1350b7d04bab4c2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c0c450ad965739b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌱SpringBoot/2.스프링 웹 개발 기초.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd8cee38be82f90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b196b89d3c680c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0257e22e6514d34d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f08e6afb22415d49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd25cc683c62db69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "26970982f8110c2c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ba3e1b9f17e53ec",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a6d133fa631f934b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd03b30358348e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a88a06efda0492",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📘북클럽/IT 5분 잡학사전.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e825508adb516dd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📘북클럽/IT 5분 잡학사전.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5e6a2b4acbec82d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b444aedfb6529b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📘북클럽/IT 5분 잡학사전.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "e566d79d4ce55433",
+  "lastOpenFiles": [
+    "Spaces/Home",
+    "📘북클럽/IT 5분 잡학사전.md",
+    "Spaces",
+    "img/Pasted image 20231125201846.png",
+    "img",
+    "📘북클럽.md",
+    "📘북클럽",
+    "🧸토이프로젝트/일정관리어플리케이션/google vidion AI api.md",
+    "🌱SpringBoot/0.개발관련.md",
+    "🧸토이프로젝트/일정관리어플리케이션",
+    "🧸토이프로젝트",
+    "🌱SpringBoot/2.스프링 웹 개발 기초.md",
+    "🌱SpringBoot/1.프로젝트 설정.md",
+    "🌱SpringBoot/1-2.View 환경설정.md",
+    "🌱SpringBoot/1-1.라이브러리.md",
+    "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+    "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
+    "🌱SpringBoot",
+    "2023-12-09.md",
+    "Excalidraw/Drawing 2023-12-09 21.52.38.excalidraw.md",
+    "무제 파일.canvas",
+    "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
+    "🧸토이프로젝트/일정관리어플리케이션/기획초안.md",
+    "Excalidraw/개발관련 2023-11-19 15.24.05.excalidraw.md",
+    "img/Pasted image 20231204163538.png",
+    "img/Pasted image 20231204162952.png",
+    "img/Pasted image 20231204162019.png",
+    "img/Pasted image 20231125235154.png",
+    "img/Pasted image 20231125234627.png",
+    "img/Pasted image 20231125210734.png",
+    "img/Pasted image 20231125232954.png",
+    "img/Pasted image 20231125212307.png",
+    "Excalidraw"
+  ]
+}
