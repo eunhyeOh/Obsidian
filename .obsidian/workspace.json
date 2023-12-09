@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#북클럽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +200,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "356d4841524361ed",
+  "active": "f08e6afb22415d49",
   "lastOpenFiles": [
     "templates/daily_todo_template.md",
     "templates/daily_til_template.md",
