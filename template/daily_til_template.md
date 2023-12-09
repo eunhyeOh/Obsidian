@@ -16,12 +16,19 @@ tags: #daily_note #TIL
 ## 기억하고 싶은 내용
 
 
-#{{date}}
-- [ ] TBU
-- [ ] TBU
+***
 
-[[{{yesterday}}|< yesterday]] | [[{{tomorrow}}|tomorrow >]]
+## 궁금한 내용 & 잘 이해되지 않는 내용
+
+
+*** 
+
+## 배운(읽은) 소감
+>떠오르는 생각 가볍게 적기
 
 
 ***
+
+
+[[{{yesterday}}|< yesterday]] | [[{{tomorrow}}|tomorrow >]]
 

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-10",
+      "path": "Daily/TodayILearned/2023-12-10.md"
+    },
+    {
       "basename": "daily_til_template",
       "path": "template/daily_til_template.md"
+    },
+    {
+      "basename": "2023-12-10",
+      "path": "Daily/ToDoList/2023-12-10.md"
     },
     {
       "basename": "template",
@@ -13,16 +21,8 @@
       "path": "Daily/TodayILearned/TodayILearned.md"
     },
     {
-      "basename": "2023-12-10",
-      "path": "Daily/ToDoList/2023-12-10.md"
-    },
-    {
       "basename": "ToDoList",
       "path": "Daily/ToDoList/ToDoList.md"
-    },
-    {
-      "basename": "2023-12-10",
-      "path": "Daily/TodayILearned/2023-12-10.md"
     },
     {
       "basename": "일정관리 어플리케이션 구상",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/daily_til_template.md",
+                "file": "Daily/TodayILearned/2023-12-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/daily_til_template.md",
+                "file": "Daily/TodayILearned/2023-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/daily_til_template.md",
+                "file": "Daily/TodayILearned/2023-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/daily_til_template.md"
+                "file": "Daily/TodayILearned/2023-12-10.md"
               }
             }
           },
@@ -200,16 +200,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "356d4841524361ed",
+  "active": "16078d978ce823dd",
   "lastOpenFiles": [
+    "template/daily_til_template.md",
+    "Daily/TodayILearned/2023-12-10.md",
+    "Daily/ToDoList/2023-12-10.md",
     "template/template.md",
     "Daily/TodayILearned/TodayILearned.md",
-    "Daily/ToDoList/2023-12-10.md",
     "Daily/ToDoList/ToDoList.md",
-    "Daily/TodayILearned/2023-12-10.md",
     "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
     "Daily/ToDoList/Untitled.md",
-    "template/daily_til_template.md",
     "template/daily_todo_template.md",
     "Obsidian Vault.md",
     "template",
