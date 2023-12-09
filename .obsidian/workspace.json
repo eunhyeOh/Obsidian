@@ -35,18 +35,12 @@
             "id": "e566d79d4ce55433",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "🧸토이프로젝트"
+                "file": "Daily/TodayILearned/daily_til_template.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "c1350b7d04bab4c2",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           },
           {
@@ -145,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/TodayILearned/daily_til_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/TodayILearned/daily_til_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +178,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/TodayILearned/daily_til_template.md"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +205,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e566d79d4ce55433",
+  "active": "e825508adb516dd4",
   "lastOpenFiles": [
+    "Daily/TodayILearned/TodayILearned.md",
+    "Daily/TodayILearned/daily_til_template.md",
+    "Daily/Daily.md",
+    "Daily/TodayILearned",
+    "Daily",
+    "Untitled.md",
     "📘북클럽/IT 5분 잡학사전.md",
     "Spaces/Home",
     "Spaces",

@@ -1,4 +1,5 @@
 {
-  "folder": "Daily/ILT/",
-  "template": "Daily/ILT/daily_ilt_template"
+  "folder": "Daily/TodayILearned",
+  "template": "Daily/ILT/daily_til_template",
+  "autorun": true
 }

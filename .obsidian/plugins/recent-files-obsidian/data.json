@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "daily_til_template",
+      "path": "Daily/TodayILearned/daily_til_template.md"
+    },
+    {
+      "basename": "TodayILearned",
+      "path": "Daily/TodayILearned/TodayILearned.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Daily/Daily.md"
+    },
+    {
       "basename": "IT 5분 잡학사전",
       "path": "📘북클럽/IT 5분 잡학사전.md"
     }
