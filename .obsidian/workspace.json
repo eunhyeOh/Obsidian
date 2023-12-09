@@ -35,11 +35,9 @@
             "id": "e566d79d4ce55433",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "📘북클럽/IT 5분 잡학사전.md",
-                "mode": "source",
-                "source": false
+                "path": "🧸토이프로젝트"
               }
             }
           },
@@ -147,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📘북클럽/IT 5분 잡학사전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📘북클럽/IT 5분 잡학사전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📘북클럽/IT 5분 잡학사전.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -215,8 +209,8 @@
   },
   "active": "e566d79d4ce55433",
   "lastOpenFiles": [
-    "Spaces/Home",
     "📘북클럽/IT 5분 잡학사전.md",
+    "Spaces/Home",
     "Spaces",
     "img/Pasted image 20231125201846.png",
     "img",
