@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "b24398d2063cebba",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "b54b7475ed4295ce",
             "type": "leaf",
             "state": {
@@ -42,8 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "021ab2eea606ed2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/ToDoList/2023-12-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -126,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/TodayILearned/2023-12-10.md",
+                "file": "Daily/ToDoList/2023-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/TodayILearned/2023-12-10.md",
+                "file": "Daily/ToDoList/2023-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/TodayILearned/2023-12-10.md"
+                "file": "Daily/ToDoList/2023-12-10.md"
               }
             }
           },
@@ -200,13 +221,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f08e6afb22415d49",
+  "active": "021ab2eea606ed2d",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "Daily/TodayILearned/2023-12-10.md",
     "templates/daily_todo_template.md",
     "templates/daily_til_template.md",
     "templates/templates.md",
     "무제 파일.md",
-    "Daily/TodayILearned/2023-12-10.md",
     "Daily/ToDoList/2023-12-10.md",
     "Daily/TodayILearned/TodayILearned.md",
     "Daily/ToDoList/ToDoList.md",
@@ -225,8 +248,6 @@
     "Daily",
     "Untitled.md",
     "📘북클럽/IT 5분 잡학사전.md",
-    "Spaces/Home",
-    "Spaces",
     "img/Pasted image 20231125201846.png",
     "img",
     "📘북클럽.md",
@@ -238,7 +259,6 @@
     "🌱SpringBoot/2.스프링 웹 개발 기초.md",
     "🌱SpringBoot/1.프로젝트 설정.md",
     "🌱SpringBoot/1-2.View 환경설정.md",
-    "🌱SpringBoot/1-1.라이브러리.md",
     "무제 파일.canvas",
     "img/Pasted image 20231204163538.png",
     "img/Pasted image 20231204162952.png",
