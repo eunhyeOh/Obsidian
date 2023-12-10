@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a6d133fa631f934b",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md"
+                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md"
               }
             }
           },
@@ -224,6 +223,8 @@
   },
   "active": "021ab2eea606ed2d",
   "lastOpenFiles": [
+    "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+    "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
     "Pasted image 20231210133943.png",
     "templates/templates.md",
     "Daily/ToDoList/2023-12-10.md",
@@ -245,7 +246,6 @@
     "Daily/Untitled.md",
     "Daily/TodayILearned/pdlf.md",
     "Daily/TodayILearned/2023-12-09.md",
-    "🌱SpringBoot/4.스프링 빈과 의존관계.md",
     "{{yesterday}}.md",
     "Daily/TodayILearned",
     "Daily",
