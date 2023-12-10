@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/ToDoList/2023-12-10.md",
+                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/ToDoList/2023-12-10.md",
+                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/ToDoList/2023-12-10.md",
+                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/ToDoList/2023-12-10.md"
+                "file": "🌱SpringBoot/4.스프링 빈과 의존관계.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "021ab2eea606ed2d",
   "lastOpenFiles": [
+    "templates/templates.md",
+    "Daily/ToDoList/2023-12-10.md",
     "새 텍스트 문서.txt",
     "Spaces/Home",
     "Spaces",
     "Daily/TodayILearned/2023-12-10.md",
     "templates/daily_todo_template.md",
     "templates/daily_til_template.md",
-    "templates/templates.md",
     "무제 파일.md",
-    "Daily/ToDoList/2023-12-10.md",
     "Daily/TodayILearned/TodayILearned.md",
     "Daily/ToDoList/ToDoList.md",
     "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
@@ -256,7 +256,6 @@
     "🧸토이프로젝트/일정관리어플리케이션/google vidion AI api.md",
     "🌱SpringBoot/0.개발관련.md",
     "🧸토이프로젝트/일정관리어플리케이션",
-    "🧸토이프로젝트",
     "🌱SpringBoot/2.스프링 웹 개발 기초.md",
     "🌱SpringBoot/1.프로젝트 설정.md",
     "🌱SpringBoot/1-2.View 환경설정.md",

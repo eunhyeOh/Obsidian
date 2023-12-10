@@ -37,7 +37,6 @@
   "expandedSpaces": [
     "/",
     "//Spaces",
-    "//🧸토이프로젝트",
     "//Spaces",
     "//Daily",
     "//Daily/Daily/TodayILearned",
@@ -50,13 +49,14 @@
     "//Spaces/Spaces/Home",
     "//Daily/Daily/ToDoList",
     "//Daily/Daily/ToDoList",
-    "//🧸토이프로젝트",
     "//Daily/Daily/ToDoList",
     "//Daily/Daily/TodayILearned",
     "//template",
     "//template",
     "//template",
-    "//templates"
+    "//🧸토이프로젝트/🧸토이프로젝트/일정관리어플리케이션",
+    "//🧸토이프로젝트/🧸토이프로젝트/일정관리어플리케이션",
+    "//🌱SpringBoot"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
