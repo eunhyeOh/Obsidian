@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6d133fa631f934b",
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md"
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
               }
             }
           },
@@ -223,13 +224,14 @@
   },
   "active": "021ab2eea606ed2d",
   "lastOpenFiles": [
+    "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
+    "🌱SpringBoot/6.스프링 DB 접근 기술.md",
     "🌱SpringBoot/0.개발관련.md",
     "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
     "🌱SpringBoot/2.스프링 웹 개발 기초.md",
     "🌱SpringBoot/1.프로젝트 설정.md",
     "🌱SpringBoot/1-2.View 환경설정.md",
     "🌱SpringBoot/1-1.라이브러리.md",
-    "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
     "🌱SpringBoot/4.스프링 빈과 의존관계.md",
     "Pasted image 20231210133943.png",
     "templates/templates.md",
@@ -256,7 +258,6 @@
     "Daily/TodayILearned",
     "Daily",
     "Untitled.md",
-    "📘북클럽/IT 5분 잡학사전.md",
     "img/Pasted image 20231125201846.png",
     "img",
     "📘북클럽",
