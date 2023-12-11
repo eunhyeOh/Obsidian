@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Blue Topaz",
   "theme": "moonstone",
-  "interfaceFontFamily": "Bahnschrift"
+  "interfaceFontFamily": "Bahnschrift",
+  "baseFontSize": 14
 }
