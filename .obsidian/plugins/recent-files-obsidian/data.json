@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-17",
+      "path": "Daily/ToDoList/2023-12-17.md"
+    },
+    {
+      "basename": "ToDoList",
+      "path": "Daily/ToDoList/ToDoList.md"
+    },
+    {
+      "basename": "2023-12-10",
+      "path": "Daily/ToDoList/2023-12-10.md"
+    },
+    {
       "basename": "6.스프링 DB 접근 기술",
       "path": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
     },
@@ -42,10 +54,6 @@
     },
     {
       "basename": "2023-12-10",
-      "path": "Daily/ToDoList/2023-12-10.md"
-    },
-    {
-      "basename": "2023-12-10",
       "path": "Daily/TodayILearned/2023-12-10.md"
     },
     {
@@ -59,10 +67,6 @@
     {
       "basename": "TodayILearned",
       "path": "Daily/TodayILearned/TodayILearned.md"
-    },
-    {
-      "basename": "ToDoList",
-      "path": "Daily/ToDoList/ToDoList.md"
     },
     {
       "basename": "일정관리 어플리케이션 구상",
