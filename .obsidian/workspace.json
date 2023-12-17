@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/ToDoList/2023-12-17.md",
+                "file": "Daily/알아둘것.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/ToDoList/2023-12-17.md",
+                "file": "Daily/알아둘것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/ToDoList/2023-12-17.md",
+                "file": "Daily/알아둘것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/ToDoList/2023-12-17.md"
+                "file": "Daily/알아둘것.md"
               }
             }
           },
@@ -223,8 +223,9 @@
   },
   "active": "021ab2eea606ed2d",
   "lastOpenFiles": [
-    "Daily/ToDoList/ToDoList.md",
+    "Daily/알아둘것.md",
     "Daily/ToDoList/2023-12-17.md",
+    "Daily/ToDoList/ToDoList.md",
     "Daily/ToDoList/2023-12-10.md",
     "🌱SpringBoot/6.스프링 DB 접근 기술.md",
     "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
@@ -250,7 +251,6 @@
     "templates",
     "Daily/Daily.md",
     "Daily/ToDoList",
-    "Daily/Untitled.md",
     "Daily/TodayILearned/pdlf.md",
     "Daily/TodayILearned/2023-12-09.md",
     "{{yesterday}}.md",
