@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a199b84e3e04bdc",
+        "id": "30ed3e18cdffa3e4",
         "type": "tabs",
         "children": [
           {
-            "id": "356d4841524361ed",
+            "id": "f44dbd80d9e29d19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TodayILearned/2023-12-10.md",
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b24398d2063cebba",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b54b7475ed4295ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/ToDoList/2023-12-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c0c450ad965739b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌱SpringBoot/2.스프링 웹 개발 기초.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "021ab2eea606ed2d",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "📘북클럽"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6d133fa631f934b",
@@ -145,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
+              }
             }
           },
           {
@@ -215,7 +177,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "021ab2eea606ed2d",
+  "active": "f44dbd80d9e29d19",
   "lastOpenFiles": [
     "🌱SpringBoot/6.스프링 DB 접근 기술.md",
     "Daily/ToDoList/2023-12-17.md",
