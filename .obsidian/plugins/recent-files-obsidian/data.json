@@ -58,7 +58,7 @@
     },
     {
       "basename": "2023-12-10",
-      "path": "Daily/TodayILearned/2023-12-10.md"
+      "path": "TodayILearned/2023-12-10.md"
     },
     {
       "basename": "daily_todo_template",
@@ -70,7 +70,7 @@
     },
     {
       "basename": "TodayILearned",
-      "path": "Daily/TodayILearned/TodayILearned.md"
+      "path": "TodayILearned/TodayILearned.md"
     },
     {
       "basename": "일정관리 어플리케이션 구상",

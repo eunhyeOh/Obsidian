@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/TodayILearned/2023-12-10.md",
+                "file": "TodayILearned/2023-12-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,11 +55,9 @@
             "id": "021ab2eea606ed2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
-                "mode": "source",
-                "source": false
+                "path": "📘북클럽"
               }
             }
           }
@@ -147,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,11 +217,11 @@
   },
   "active": "021ab2eea606ed2d",
   "lastOpenFiles": [
+    "🌱SpringBoot/6.스프링 DB 접근 기술.md",
     "Daily/ToDoList/2023-12-17.md",
     "Daily/알아둘것.md",
     "Daily/ToDoList/ToDoList.md",
     "Daily/ToDoList/2023-12-10.md",
-    "🌱SpringBoot/6.스프링 DB 접근 기술.md",
     "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
     "🌱SpringBoot/0.개발관련.md",
     "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
@@ -241,11 +235,11 @@
     "새 텍스트 문서.txt",
     "Spaces/Home",
     "Spaces",
-    "Daily/TodayILearned/2023-12-10.md",
+    "TodayILearned/2023-12-10.md",
     "templates/daily_todo_template.md",
     "templates/daily_til_template.md",
     "무제 파일.md",
-    "Daily/TodayILearned/TodayILearned.md",
+    "TodayILearned/TodayILearned.md",
     "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
     "Obsidian Vault.md",
     "templates",
@@ -254,7 +248,7 @@
     "Daily/TodayILearned/pdlf.md",
     "Daily/TodayILearned/2023-12-09.md",
     "{{yesterday}}.md",
-    "Daily/TodayILearned",
+    "TodayILearned",
     "Daily",
     "Untitled.md",
     "img/Pasted image 20231125201846.png",
