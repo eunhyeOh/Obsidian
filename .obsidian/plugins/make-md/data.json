@@ -50,10 +50,9 @@
     "//template",
     "//🧸토이프로젝트/🧸토이프로젝트/일정관리어플리케이션",
     "//🧸토이프로젝트/🧸토이프로젝트/일정관리어플리케이션",
-    "//🌱SpringBoot",
     "//Spaces",
     "//Spaces/Spaces/Home",
-    "//📘북클럽"
+    "//👓SQL"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -76,13 +75,15 @@
   "waypoints": [
     "Spaces/Home",
     "spaces://$tags",
-    "/"
+    "/",
+    "SQL"
   ],
   "rootSpaces": [
     "Daily",
     "Daily/ILearnToday",
     "Daily/ToDoList",
-    "template"
+    "template",
+    "👓SQL"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
