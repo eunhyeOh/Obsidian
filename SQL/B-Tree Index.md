@@ -16,8 +16,14 @@
 
 **B-Tree계열을 DB 인덱스로 사용하는 이유**
 1. DB는 기본적으로 secondary  storage에 저장된다.
-2. B-Tree index는 self-balancing
+2. B-Tree index는 self-balancing BST에 비해서 secondary storage 접근을 적게 한다.
+3. B-Tree 노드는 노드에 여러 개의 데이터를 저장할 수 있기 때문에  block 단위의 저장 공간을 알차게 사용할 수 있다.
+
+
+**hash index를 쓰는건?**
+- hash index는  삽입/삭제/조회의 시간 복잡도가 O(1)
+- 그러나 equ
 
 **참고로 알아볼 것**
 - 시간 복잡도(O(logN))
-	- 평균 케이스, 최악 케이스의 조회,삽입, 삭제시의 시간
+	- 평균 케이스, 최악 케이스의 조회,삽입, 삭제 시의 시간
