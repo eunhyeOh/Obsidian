@@ -5,7 +5,7 @@
 
 **DB와 Secondary storage**
 - DB는 Secondary storage(SSD/HDD)에 저장된다.
-- Secondary storage는 block단위로 데이터를 읽고 쓰기 때문에 연관된 데이터를 모아서 저장하면 더 효율적으로 읽고 쓸 수 있다.
+- Secondary storage는 block단위로 데이터를 읽고 쓰기 때문에 연관된 데이  터를 모아서 저장하면 더 효율적으로 읽고 쓸 수 있다.
 - DB에서 데이터를 조회할 때 Secondary storage에 최대한 적게 접근하는 것이 성능 면에서 좋다.
 
 
