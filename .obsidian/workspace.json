@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👓SQL/1.기본 고려사항.md",
+                "file": "SQL/B-Tree Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👓SQL/1.기본 고려사항.md",
+                "file": "SQL/B-Tree Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👓SQL/1.기본 고려사항.md",
+                "file": "SQL/B-Tree Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👓SQL/1.기본 고려사항.md"
+                "file": "SQL/B-Tree Index.md"
               }
             }
           },
@@ -177,10 +177,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7ba3e1b9f17e53ec",
+  "active": "3d9b5807e0a601b9",
   "lastOpenFiles": [
-    "👓SQL/MSSQL.md",
     "👓SQL/1.기본 고려사항.md",
+    "SQL/B-Tree Index.md",
+    "SQL",
+    "👓SQL/MSSQL.md",
     "👓SQL/👓SQL.md",
     "👓SQL",
     "Untitled.md",
@@ -212,13 +214,11 @@
     "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
     "Obsidian Vault.md",
     "templates",
-    "Daily/Daily.md",
     "Daily/ToDoList",
     "TodayILearned",
     "Daily",
     "img/Pasted image 20231125201846.png",
     "img",
-    "📘북클럽",
     "무제 파일.canvas",
     "img/Pasted image 20231204163538.png",
     "img/Pasted image 20231204162952.png",
