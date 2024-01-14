@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/B-Tree Index.md",
+                "file": "👓SQL/1.기본 고려사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/B-Tree Index.md",
+                "file": "👓SQL/1.기본 고려사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/B-Tree Index.md",
+                "file": "👓SQL/1.기본 고려사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/B-Tree Index.md"
+                "file": "👓SQL/1.기본 고려사항.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "3d9b5807e0a601b9",
   "lastOpenFiles": [
-    "👓SQL/1.기본 고려사항.md",
     "SQL/B-Tree Index.md",
+    "👓SQL/1.기본 고려사항.md",
     "SQL",
     "👓SQL/MSSQL.md",
     "👓SQL/👓SQL.md",
