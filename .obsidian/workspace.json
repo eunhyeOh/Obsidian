@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6d133fa631f934b",
@@ -176,7 +177,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "dcd420ed1200f986",
+  "active": "7ba3e1b9f17e53ec",
   "lastOpenFiles": [
     "👓SQL/2.쿼리 금기사항.md",
     "👓SQL/3.더 좋은 쿼리 작성하기.md",
