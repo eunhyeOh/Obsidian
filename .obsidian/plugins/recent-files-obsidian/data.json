@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "3.더 좋은 쿼리 작성하기",
-      "path": "👓SQL/3.더 좋은 쿼리 작성하기.md"
+      "basename": "조인 수행원리",
+      "path": "SQL/조인 수행원리.md"
     },
     {
-      "basename": "2.쿼리 금기사항",
-      "path": "👓SQL/2.쿼리 금기사항.md"
-    },
-    {
-      "basename": "1.기본 고려사항",
-      "path": "👓SQL/1.기본 고려사항.md"
-    },
-    {
-      "basename": "2.쿼리 금기사항",
-      "path": "SQL/2.쿼리 금기사항.md"
+      "basename": "SQL",
+      "path": "SQL/SQL.md"
     },
     {
       "basename": "B-Tree Index",
@@ -25,12 +17,24 @@
       "path": "👓SQL/MSSQL.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "3.더 좋은 쿼리 작성하기",
+      "path": "👓SQL/3.더 좋은 쿼리 작성하기.md"
+    },
+    {
       "basename": "👓SQL",
       "path": "👓SQL/👓SQL.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "2.쿼리 금기사항",
+      "path": "👓SQL/2.쿼리 금기사항.md"
+    },
+    {
+      "basename": "1.기본 고려사항",
+      "path": "👓SQL/1.기본 고려사항.md"
     },
     {
       "basename": "6.스프링 DB 접근 기술",

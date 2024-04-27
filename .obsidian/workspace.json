@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f70959f31957de",
+        "id": "5a33599bc1c48c07",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd420ed1200f986",
+            "id": "0867cc2251b75b98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👓SQL/3.더 좋은 쿼리 작성하기.md",
+                "file": "SQL/조인 수행원리.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8f60ca1e90f0a9da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👓SQL/3.더 좋은 쿼리 작성하기.md",
+                "file": "SQL/조인 수행원리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👓SQL/3.더 좋은 쿼리 작성하기.md",
+                "file": "SQL/조인 수행원리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👓SQL/3.더 좋은 쿼리 작성하기.md"
+                "file": "SQL/조인 수행원리.md"
               }
             }
           },
@@ -188,20 +177,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8f60ca1e90f0a9da",
+  "active": "0867cc2251b75b98",
   "lastOpenFiles": [
-    "👓SQL/2.쿼리 금기사항.md",
+    "SQL/SQL.md",
+    "SQL/조인 수행원리.md",
+    "SQL/B-Tree Index.md",
+    "SQL/.md",
+    "👓SQL/MSSQL.md",
+    "Untitled.md",
     "👓SQL/3.더 좋은 쿼리 작성하기.md",
+    "👓SQL/👓SQL.md",
+    "👓SQL/2.쿼리 금기사항.md",
     "👓SQL/1.기본 고려사항.md",
     "Pasted image 20240204140457.png",
     "Pasted image 20240204140329.png",
-    "SQL/2.쿼리 금기사항.md",
-    "SQL/B-Tree Index.md",
     "SQL",
-    "👓SQL/MSSQL.md",
-    "👓SQL/👓SQL.md",
     "👓SQL",
-    "Untitled.md",
     "🌱SpringBoot/6.스프링 DB 접근 기술.md",
     "Pasted image 20231217134206.png",
     "Pasted image 20231217134032.png",
@@ -224,8 +215,6 @@
     "Spaces",
     "TodayILearned/2023-12-10.md",
     "templates/daily_todo_template.md",
-    "templates/daily_til_template.md",
-    "무제 파일.md",
     "templates",
     "Daily/ToDoList",
     "TodayILearned",
