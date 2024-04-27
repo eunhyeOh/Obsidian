@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/물리적 조인.md",
+                "file": "SQL/실행계획.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/물리적 조인.md",
+                "file": "SQL/실행계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/물리적 조인.md",
+                "file": "SQL/실행계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/물리적 조인.md"
+                "file": "SQL/실행계획.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "0a8aab6091909731",
   "lastOpenFiles": [
-    "SQL/Untitled.md",
-    "SQL/조인 수행원리.md",
     "SQL/물리적 조인.md",
+    "SQL/실행계획.md",
+    "SQL/조인 수행원리.md",
     "SQL/SQL.md",
     "SQL/B-Tree Index.md",
     "SQL/.md",
