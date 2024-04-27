@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a8aab6091909731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/물리적 조인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/조인 수행원리.md",
+                "file": "SQL/물리적 조인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/조인 수행원리.md",
+                "file": "SQL/물리적 조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/조인 수행원리.md"
+                "file": "SQL/물리적 조인.md"
               }
             }
           },
@@ -177,10 +190,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0867cc2251b75b98",
+  "active": "0a8aab6091909731",
   "lastOpenFiles": [
-    "SQL/SQL.md",
     "SQL/조인 수행원리.md",
+    "SQL/물리적 조인.md",
+    "SQL/SQL.md",
     "SQL/B-Tree Index.md",
     "SQL/.md",
     "👓SQL/MSSQL.md",
@@ -214,7 +228,6 @@
     "Spaces/Home",
     "Spaces",
     "TodayILearned/2023-12-10.md",
-    "templates/daily_todo_template.md",
     "templates",
     "Daily/ToDoList",
     "TodayILearned",
