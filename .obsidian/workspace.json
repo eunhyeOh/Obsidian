@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f60ca1e90f0a9da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7ba3e1b9f17e53ec",
+  "active": "8f60ca1e90f0a9da",
   "lastOpenFiles": [
     "👓SQL/2.쿼리 금기사항.md",
     "👓SQL/3.더 좋은 쿼리 작성하기.md",
