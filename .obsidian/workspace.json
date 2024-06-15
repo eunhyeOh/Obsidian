@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdd0bac859580be2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +187,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0a8aab6091909731",
+  "active": "bdd0bac859580be2",
   "lastOpenFiles": [
     "SQL/물리적 조인.md",
     "SQL/실행계획.md",
