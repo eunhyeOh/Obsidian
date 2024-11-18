@@ -39,14 +39,12 @@
             "id": "fb8134ede0939c60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "👓SQL/1.기본 고려사항.md",
-                "mode": "source",
-                "source": false
+                "path": "🧸토이프로젝트/일정관리어플리케이션"
               },
               "icon": "lucide-file",
-              "title": "1.기본 고려사항"
+              "title": "일정관리어플리케이션"
             }
           }
         ],
@@ -249,6 +247,17 @@
   },
   "active": "fb8134ede0939c60",
   "lastOpenFiles": [
+    "🧸토이프로젝트/일정관리어플리케이션/기획초안.md",
+    "🧸토이프로젝트/일정관리어플리케이션/일정관리 어플리케이션 구상.md",
+    "🧸토이프로젝트/일정관리어플리케이션/google vidion AI api.md",
+    "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
+    "🌱SpringBoot/4.스프링 빈과 의존관계.md",
+    "🌱SpringBoot/1.프로젝트 설정.md",
+    "🌱SpringBoot/1-2.View 환경설정.md",
+    "🌱SpringBoot/1-1.라이브러리.md",
+    "🌱SpringBoot/0.개발관련.md",
+    "🌱SpringBoot/2.스프링 웹 개발 기초.md",
+    "👓SQL/1.기본 고려사항.md",
     "👓SQL/2.쿼리 금기사항.md",
     "SQL/물리적 조인.md",
     "SQL/실행계획.md",
@@ -260,7 +269,6 @@
     "Untitled.md",
     "👓SQL/3.더 좋은 쿼리 작성하기.md",
     "👓SQL/👓SQL.md",
-    "👓SQL/1.기본 고려사항.md",
     "Pasted image 20240204140457.png",
     "Pasted image 20240204140329.png",
     "SQL",
@@ -271,17 +279,7 @@
     "Daily/ToDoList/2023-12-17.md",
     "Daily/알아둘것.md",
     "Daily/ToDoList/ToDoList.md",
-    "Daily/ToDoList/2023-12-10.md",
-    "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
-    "🌱SpringBoot/0.개발관련.md",
-    "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
-    "🌱SpringBoot/2.스프링 웹 개발 기초.md",
-    "🌱SpringBoot/1.프로젝트 설정.md",
-    "🌱SpringBoot/1-2.View 환경설정.md",
-    "🌱SpringBoot/1-1.라이브러리.md",
-    "🌱SpringBoot/4.스프링 빈과 의존관계.md",
     "Pasted image 20231210133943.png",
-    "templates/templates.md",
     "새 텍스트 문서.txt",
     "Spaces/Home",
     "Spaces",
