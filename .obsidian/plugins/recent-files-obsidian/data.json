@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "1-2.View 환경설정",
+      "path": "🌱SpringBoot/1-2.View 환경설정.md"
+    },
+    {
+      "basename": "3.회원 관리 예제 - 백엔드 개발",
+      "path": "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md"
+    },
+    {
+      "basename": "2.스프링 웹 개발 기초",
+      "path": "🌱SpringBoot/2.스프링 웹 개발 기초.md"
+    },
+    {
+      "basename": "6.스프링 DB 접근 기술",
+      "path": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
+    },
+    {
+      "basename": "알아둘것",
+      "path": "Daily/알아둘것.md"
+    },
+    {
+      "basename": "2023-12-10",
+      "path": "Daily/ToDoList/2023-12-10.md"
+    },
+    {
+      "basename": "2023-12-17",
+      "path": "Daily/ToDoList/2023-12-17.md"
+    },
+    {
+      "basename": "IT 5분 잡학사전",
+      "path": "📘북클럽/IT 5분 잡학사전.md"
+    },
+    {
       "basename": "기획초안",
       "path": "🧸토이프로젝트/일정관리어플리케이션/기획초안.md"
     },
@@ -25,20 +57,12 @@
       "path": "🌱SpringBoot/1.프로젝트 설정.md"
     },
     {
-      "basename": "1-2.View 환경설정",
-      "path": "🌱SpringBoot/1-2.View 환경설정.md"
-    },
-    {
       "basename": "1-1.라이브러리",
       "path": "🌱SpringBoot/1-1.라이브러리.md"
     },
     {
       "basename": "0.개발관련",
       "path": "🌱SpringBoot/0.개발관련.md"
-    },
-    {
-      "basename": "2.스프링 웹 개발 기초",
-      "path": "🌱SpringBoot/2.스프링 웹 개발 기초.md"
     },
     {
       "basename": "1.기본 고려사항",
@@ -85,28 +109,8 @@
       "path": "👓SQL/👓SQL.md"
     },
     {
-      "basename": "6.스프링 DB 접근 기술",
-      "path": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
-    },
-    {
-      "basename": "2023-12-17",
-      "path": "Daily/ToDoList/2023-12-17.md"
-    },
-    {
-      "basename": "알아둘것",
-      "path": "Daily/알아둘것.md"
-    },
-    {
       "basename": "ToDoList",
       "path": "Daily/ToDoList/ToDoList.md"
-    },
-    {
-      "basename": "2023-12-10",
-      "path": "Daily/ToDoList/2023-12-10.md"
-    },
-    {
-      "basename": "3.회원 관리 예제 - 백엔드 개발",
-      "path": "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md"
     },
     {
       "basename": "templates",
@@ -131,10 +135,6 @@
     {
       "basename": "Daily",
       "path": "Daily/Daily.md"
-    },
-    {
-      "basename": "IT 5분 잡학사전",
-      "path": "📘북클럽/IT 5분 잡학사전.md"
     }
   ],
   "omittedPaths": [],
