@@ -39,28 +39,18 @@
             "id": "fb8134ede0939c60",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "👓SQL/1.기본 고려사항.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.6.3"
-            }
-          },
-          {
-            "id": "2130743aff5628e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "1.기본 고려사항"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,9 +123,31 @@
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
             }
+          },
+          {
+            "id": "a17d6f0eb4bfab02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f530905f35a57b28",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -235,8 +247,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2130743aff5628e5",
+  "active": "fb8134ede0939c60",
   "lastOpenFiles": [
+    "👓SQL/2.쿼리 금기사항.md",
     "SQL/물리적 조인.md",
     "SQL/실행계획.md",
     "SQL/조인 수행원리.md",
@@ -247,7 +260,6 @@
     "Untitled.md",
     "👓SQL/3.더 좋은 쿼리 작성하기.md",
     "👓SQL/👓SQL.md",
-    "👓SQL/2.쿼리 금기사항.md",
     "👓SQL/1.기본 고려사항.md",
     "Pasted image 20240204140457.png",
     "Pasted image 20240204140329.png",
