@@ -140,14 +140,16 @@
             "id": "f530905f35a57b28",
             "type": "leaf",
             "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -247,7 +249,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fb8134ede0939c60",
+  "active": "26970982f8110c2c",
   "lastOpenFiles": [
     "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
     "🌱SpringBoot/2.스프링 웹 개발 기초.md",
