@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "6.스프링 DB 접근 기술",
+      "path": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
+    },
+    {
+      "basename": "4.스프링 빈과 의존관계",
+      "path": "🌱SpringBoot/4.스프링 빈과 의존관계.md"
+    },
+    {
+      "basename": "5.회원관리예제 - 웹MVC개발",
+      "path": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md"
+    },
+    {
       "basename": "3.회원 관리 예제 - 백엔드 개발",
       "path": "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "0.개발관련",
       "path": "🌱SpringBoot/0.개발관련.md"
-    },
-    {
-      "basename": "6.스프링 DB 접근 기술",
-      "path": "🌱SpringBoot/6.스프링 DB 접근 기술.md"
     },
     {
       "basename": "알아둘것",
@@ -55,14 +63,6 @@
     {
       "basename": "google vidion AI api",
       "path": "🧸토이프로젝트/일정관리어플리케이션/google vidion AI api.md"
-    },
-    {
-      "basename": "5.회원관리예제 - 웹MVC개발",
-      "path": "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md"
-    },
-    {
-      "basename": "4.스프링 빈과 의존관계",
-      "path": "🌱SpringBoot/4.스프링 빈과 의존관계.md"
     },
     {
       "basename": "1.기본 고려사항",
