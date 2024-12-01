@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SpringBoot/1.프로젝트 설정.md",
+                "file": "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.프로젝트 설정"
+              "title": "3.회원 관리 예제 - 백엔드 개발"
             }
           }
         ],
@@ -283,12 +283,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "26970982f8110c2c",
+  "active": "fb8134ede0939c60",
   "lastOpenFiles": [
-    "🌱SpringBoot/1-1.라이브러리.md",
-    "🌱SpringBoot/1-2.View 환경설정.md",
-    "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
     "🌱SpringBoot/2.스프링 웹 개발 기초.md",
+    "🌱SpringBoot/1.프로젝트 설정.md",
+    "🌱SpringBoot/1-2.View 환경설정.md",
+    "🌱SpringBoot/1-1.라이브러리.md",
+    "🌱SpringBoot/0.개발관련.md",
+    "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
     "🌱SpringBoot/6.스프링 DB 접근 기술.md",
     "Daily/알아둘것.md",
     "Daily/ToDoList/2023-12-10.md",
@@ -299,8 +301,6 @@
     "🧸토이프로젝트/일정관리어플리케이션/google vidion AI api.md",
     "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
     "🌱SpringBoot/4.스프링 빈과 의존관계.md",
-    "🌱SpringBoot/1.프로젝트 설정.md",
-    "🌱SpringBoot/0.개발관련.md",
     "👓SQL/1.기본 고려사항.md",
     "👓SQL/2.쿼리 금기사항.md",
     "SQL/물리적 조인.md",
