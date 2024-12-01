@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a8aab6091909731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/실행계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "실행계획"
-            }
-          },
-          {
             "id": "bdd0bac859580be2",
             "type": "leaf",
             "state": {
@@ -36,17 +22,31 @@
             }
           },
           {
+            "id": "0a8aab6091909731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/실행계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "실행계획"
+            }
+          },
+          {
             "id": "fb8134ede0939c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SpringBoot/1-2.View 환경설정.md",
+                "file": "🌱SpringBoot/1.프로젝트 설정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-2.View 환경설정"
+              "title": "1.프로젝트 설정"
             }
           }
         ],
@@ -149,7 +149,31 @@
             }
           },
           {
-            "id": "8e2f8bb55378eba9",
+            "id": "67c8b62f39903d10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "cc3127669644575a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a6ce4fbdc3d0f013",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -159,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -261,6 +285,8 @@
   },
   "active": "26970982f8110c2c",
   "lastOpenFiles": [
+    "🌱SpringBoot/1-1.라이브러리.md",
+    "🌱SpringBoot/1-2.View 환경설정.md",
     "🌱SpringBoot/3.회원 관리 예제 - 백엔드 개발.md",
     "🌱SpringBoot/2.스프링 웹 개발 기초.md",
     "🌱SpringBoot/6.스프링 DB 접근 기술.md",
@@ -274,8 +300,6 @@
     "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
     "🌱SpringBoot/4.스프링 빈과 의존관계.md",
     "🌱SpringBoot/1.프로젝트 설정.md",
-    "🌱SpringBoot/1-2.View 환경설정.md",
-    "🌱SpringBoot/1-1.라이브러리.md",
     "🌱SpringBoot/0.개발관련.md",
     "👓SQL/1.기본 고려사항.md",
     "👓SQL/2.쿼리 금기사항.md",
