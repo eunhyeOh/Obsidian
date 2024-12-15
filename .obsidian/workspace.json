@@ -176,6 +176,18 @@
             "id": "a6ce4fbdc3d0f013",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "30cd906912c92ec7",
+            "type": "leaf",
+            "state": {
               "type": "mk-file-view",
               "state": {},
               "icon": "layout-grid",
@@ -183,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -283,7 +295,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fb8134ede0939c60",
+  "active": "26970982f8110c2c",
   "lastOpenFiles": [
     "🌱SpringBoot/4.스프링 빈과 의존관계.md",
     "🌱SpringBoot/5.회원관리예제 - 웹MVC개발.md",
