@@ -32,8 +32,13 @@
 
 ### DB
 tb_lecture
-lectuer_id
+lecture_id
 lecture_name
 lecture_date
 lectuere_name
-max_enroll_cnt
+enroll_cnt
+
+tb_lectuer_enroll 
+lectuere_id
+user_id
+reg_date
