@@ -38,7 +38,7 @@ lecture_date
 lectuere_name
 enroll_cnt
 
-tb_lectuer_enroll 
+tb_lecture_enroll 
 lectuere_id
 user_id
 reg_date
