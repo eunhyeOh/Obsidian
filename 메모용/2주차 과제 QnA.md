@@ -36,9 +36,16 @@ lecture_id
 lecture_name
 lecture_date
 lectuere_name
-enroll_cnt
+lecture_price
+reg_date
 
 tb_lecture_enroll 
-lectuere_id
+lecture_id
+lecture_name
+lecture_date
+lectuere_name
+lecture_price
+
 user_id
+user_name
 reg_date
