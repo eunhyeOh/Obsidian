@@ -6,7 +6,7 @@
       {
         "id": "5a33599bc1c48c07",
         "type": "tabs",
-        "dimension": 55.57046979865772,
+        "dimension": 37.18120805369127,
         "children": [
           {
             "id": "bdd0bac859580be2",
@@ -27,7 +27,7 @@
       {
         "id": "756bde991acec689",
         "type": "tabs",
-        "dimension": 44.42953020134228,
+        "dimension": 62.81879194630873,
         "children": [
           {
             "id": "69726de5d904afcc",
@@ -312,10 +312,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bdd0bac859580be2",
+  "active": "69726de5d904afcc",
   "lastOpenFiles": [
-    "무제 파일.md",
     "메모용/2주차 과제 QnA.md",
+    "무제 파일.md",
     "👓SQL/3.더 좋은 쿼리 작성하기.md",
     "메모용",
     "🌱SpringBoot/6.스프링 DB 접근 기술.md",
