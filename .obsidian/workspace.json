@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "5a33599bc1c48c07",
-        "type": "tabs",
-        "dimension": 23.894862604540023,
-        "children": [
-          {
-            "id": "bdd0bac859580be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "메모용/2주차 과제 QnA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2주차 과제 QnA"
-            }
-          }
-        ]
-      },
-      {
         "id": "756bde991acec689",
         "type": "tabs",
-        "dimension": 76.10513739545998,
         "children": [
           {
             "id": "69726de5d904afcc",
@@ -312,7 +290,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "69726de5d904afcc",
+  "active": "26970982f8110c2c",
   "lastOpenFiles": [
     "메모용/2주차 과제 QnA.md",
     "무제 파일.md",
