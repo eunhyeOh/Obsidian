@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "6주차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제 파일 1"
+              "title": "6주차"
             }
           }
         ],
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6d133fa631f934b",
@@ -307,11 +308,12 @@
   },
   "active": "9c090790f99c2e58",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "6주차.md",
+    "Pasted image 20250118133304.png",
     "Pasted image 20250118133221.png",
     "Pasted image 20250118133055.png",
     "Pasted image 20250118133029.png",
-    "무제 파일 1.md",
-    "무제 파일.md",
     "메모용/2주차 과제 QnA.md",
     "👓SQL/3.더 좋은 쿼리 작성하기.md",
     "메모용",
@@ -351,8 +353,6 @@
     "TodayILearned",
     "Daily",
     "img/Pasted image 20231125201846.png",
-    "무제 파일.canvas",
-    "img/Pasted image 20231204163538.png",
-    "img/Pasted image 20231204162952.png"
+    "무제 파일.canvas"
   ]
 }
