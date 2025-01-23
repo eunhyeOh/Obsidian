@@ -5,6 +5,14 @@
       "path": "무제 파일 1.md"
     },
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
+      "basename": "ConcertRepositoryImpl",
+      "path": "ConcertRepositoryImpl.md"
+    },
+    {
       "basename": "무제 파일 2",
       "path": "무제 파일 2.md"
     },
@@ -13,16 +21,8 @@
       "path": "과제 공부/동시성 문제와 제어.md"
     },
     {
-      "basename": "ConcertRepositoryImpl",
-      "path": "ConcertRepositoryImpl.md"
-    },
-    {
       "basename": "무제 파일",
       "path": "과제 공부/무제 파일.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
     },
     {
       "basename": "계층별 데이터 전달",
