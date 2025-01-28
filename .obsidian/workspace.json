@@ -245,7 +245,8 @@
               "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -345,7 +346,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9c090790f99c2e58",
+  "active": "26970982f8110c2c",
   "lastOpenFiles": [
     "무제 파일 1.md",
     "무제 파일.md",
