@@ -77,7 +77,8 @@
               "title": "무제 파일"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -346,13 +347,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "26970982f8110c2c",
+  "active": "74883222a65ad41a",
   "lastOpenFiles": [
-    "무제 파일 1.md",
     "무제 파일.md",
+    "과제 공부/동시성 문제와 제어.md",
+    "무제 파일 1.md",
     "ConcertRepositoryImpl.md",
     "무제 파일 2.md",
-    "과제 공부/동시성 문제와 제어.md",
     "과제 공부/무제 파일.md",
     "과제 공부/계층별 데이터 전달.md",
     "과제 공부/6주차.md",
